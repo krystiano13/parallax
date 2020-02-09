@@ -1,0 +1,52 @@
+.HeaderSec{
+    background-image: url(https://wallpapersmug.com/download/2560x1440/22daba/moon-rays-red-space-sky-abstract-mountains.jpg);
+    background-size: cover;
+    height : 90vh;
+    width: 100%;
+    background-position: 50% 50%;
+    background-repeat: no-repeat;
+
+
+}
+    
+h1{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    color: #fff;
+    font-size: 60px;
+    text-shadow: 0 2px 5px rgba(0, 0, 0, 0.7);
+}
+p{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    color: #fff;
+    font-size: larger;
+    text-shadow: 0 2px 5px rgba(0, 0, 0, 0.7);
+}
+
+.MainSec{
+    background: #333333;
+    font-size: xx-large;
+}
+.parallax{
+    background-attachment: fixed;
+}
+body{
+    margin:0;
+    padding: 0;
+    background-color: #333333;
+}
+div{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+
+}
+}
+
+  
